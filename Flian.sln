@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flian", "Flian\Flian.csproj", "{678B1692-FB5F-4958-A5D1-4DA7D35D2C84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flian.Tests", "Flian.Tests\Flian.Tests.csproj", "{D4AEC51E-AF80-4E5F-950B-5ED4D1EE97AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flian.App", "Flian.App\Flian.App.csproj", "{D3FD40E1-5813-4675-995E-4A5B6C3601F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{678B1692-FB5F-4958-A5D1-4DA7D35D2C84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{678B1692-FB5F-4958-A5D1-4DA7D35D2C84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{678B1692-FB5F-4958-A5D1-4DA7D35D2C84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{678B1692-FB5F-4958-A5D1-4DA7D35D2C84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4AEC51E-AF80-4E5F-950B-5ED4D1EE97AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4AEC51E-AF80-4E5F-950B-5ED4D1EE97AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4AEC51E-AF80-4E5F-950B-5ED4D1EE97AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4AEC51E-AF80-4E5F-950B-5ED4D1EE97AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3FD40E1-5813-4675-995E-4A5B6C3601F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3FD40E1-5813-4675-995E-4A5B6C3601F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3FD40E1-5813-4675-995E-4A5B6C3601F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3FD40E1-5813-4675-995E-4A5B6C3601F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E4FFEC1-2858-4F4A-8F46-2DCDECCD1E04}
+	EndGlobalSection
+EndGlobal

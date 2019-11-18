@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Flian.App": {
+      "commandName": "Project",
+      "commandLineArgs": "--mode=play --folder=D:\\engines --engine=ec830220422546009ce1c4d05263b9e7"
+    }
+  }
+}
